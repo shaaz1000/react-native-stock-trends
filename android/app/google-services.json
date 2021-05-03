@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304833540848",
+    "project_id": "stocks-trend",
+    "storage_bucket": "stocks-trend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304833540848:android:fb905d6ab938424bfac835",
+        "android_client_info": {
+          "package_name": "com.stocks_trend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304833540848-in2ucm96925knlata821eajeaeurieu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stocks_trend",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "304833540848-3jl2f393kj45vei1868dj1vdntko35ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeafCbEFV5eT4tSl_zJefcQKlMiA56xxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304833540848-3jl2f393kj45vei1868dj1vdntko35ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
